@@ -26,7 +26,7 @@ const transferController = {
 
     getTransactions: (req, res) => {
         try {
-            res.status(200).json(getTransactions());
+            res.status(200).json({transactions: getTransactions()});
         } catch(error) {
             res.status(404).json({ error: error.message });
         }
