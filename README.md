@@ -1,0 +1,1 @@
+RESTful API for transferring funds between accounts using in-memory data storage within a monolithic architecture. It handles account balances and transaction records. Implemented in JavaScript, the API ensures secure and failsafe transfers. No authentication required.
