@@ -20,5 +20,6 @@ Transfer Service API
 
 => to run server
 1. node index.js
+   
 => to run test cases
 1. npm test
