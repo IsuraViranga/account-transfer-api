@@ -1,0 +1,20 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# OS-specific files (MacOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Debug files
+npm-debug.log*
+
+# Other
+.idea/ 
+.vscode/
